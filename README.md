@@ -1,8 +1,7 @@
-# React + Vite
+# Assignment Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Develop a single-page web application called "EventSpot Lite" where users can discover
+ local events happening around them. Focus on creating a visually appealing interface with
+ smooth animations, ensuring the application is responsive across devices.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 
