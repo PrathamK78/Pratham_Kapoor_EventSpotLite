@@ -29,11 +29,11 @@ const App = () => {
 
   const backgroundStyles = usePattern
     ? {
-        backgroundImage: `url(${Wall3})`,
+        backgroundImage: `url(${Wall2})`,
         backgroundSize: 'cover'
       }
     : {
-        backgroundImage: `url(${Wall2})`,
+        backgroundImage: `url(${Wall3})`,
         backgroundSize: 'cover',
       };
 

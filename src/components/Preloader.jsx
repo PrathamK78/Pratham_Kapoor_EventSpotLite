@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Preloader = () => (
-    <div className="fixed inset-0 bg-gradient-to-r from-blue-500 to-purple-600 flex flex-col items-center justify-center z-50">
+    <div className="fixed inset-0 bg-gradient-to-r from-slate-900 to-slate-700 flex flex-col items-center justify-center z-50">
       <div className="relative w-24 h-24">
         <div className="absolute inset-0 border-8 border-white/20 rounded-full"></div>
         <div className="absolute inset-0 border-8 border-t-white rounded-full animate-spin"></div>
